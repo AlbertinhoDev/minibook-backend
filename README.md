@@ -2,7 +2,7 @@
 - _github.com/gin-gonic/gin_
 - _github.com/lib/pq_
 - _github.com/dgrijalva/jwt-go_
-- _golang.org/x/crypto/bcrypt
+- _golang.org/x/crypto/bcrypt_
 _
 
 **2. Server PostgreSQL**
